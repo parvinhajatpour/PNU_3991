@@ -32,7 +32,7 @@
 1. [G-A03تمرینات گروهی ]
     1. [Binary search tree](https://www.aparat.com/v/mE1XP)
     1. [Bubble sort](https://aparat.com/v/jk90Q)
-    1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
+    1. [Ford-fulkerson](https://bahssanbeygi.github.io/ford-fulkerson/)
     
  ------------------
     
